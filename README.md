@@ -57,14 +57,5 @@
 
 <br/>
 
----
-
-
----
-
-
 [linkedin]: https://www.linkedin.com/in/navaraj-pokharel/
 
-
-
-----
