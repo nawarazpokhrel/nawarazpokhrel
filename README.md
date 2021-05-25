@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on API development technologies like Django Rest Framework, Django, Heroku
 - 📚 I’m currently learning  about  and Backend technologies and Framework😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play football and pubg 🎱.
+- ⚡ Fun fact: I love to play football  and pubg.
 
 ---
 
