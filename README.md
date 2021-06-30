@@ -19,12 +19,11 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=nawaeajpokhrel&repo=nawarazpokhrel/bottle_nepal"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=nawaeajpokhrel"/>
 
 ### Contact with me 📝
 
 
-![Visitor Count](https://profile-counter.glitch.me/https://github.com/nawarazpokhrel/nawarazpokhrel/count.svg)
 
 
 
