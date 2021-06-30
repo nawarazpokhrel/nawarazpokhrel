@@ -22,6 +22,8 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=nawaeajpokhrel"/>
 
 ### Contact with me 📝
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/navaraj-pokharel/)
+&nbsp;
 
 
 
