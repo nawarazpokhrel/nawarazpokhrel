@@ -24,7 +24,8 @@
 ### Contact with me 📝
 
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+![Visitor Count](https://profile-counter.glitch.me/https://github.com/nawarazpokhrel/nawarazpokhrel/count.svg)
+
 
 
 <br />
