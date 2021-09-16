@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  and Backend API developer
+## I'm a Computer Science, Engineering Student  and Backend API developer
 
 - 👨‍💻 I’m currently working on API development technologies like Django Rest Framework, Django, Heroku
 - 📚 I’m currently learning  about  and Backend technologies and Framework😅
