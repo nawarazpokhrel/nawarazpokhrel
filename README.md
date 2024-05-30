@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Backend API developer
+## I'm a  Backend API developer
 
 - 👨‍💻 I’m currently working on API development technologies like Django Rest Framework, Django, Aws
 - 📚 I’m currently learning  about  and Backend technologies and Frameworks 😅
